@@ -77,14 +77,14 @@ p {
 }
 /* Hero Style End */
 
-/*Content Style Start*/
+/*Main Style Start*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
     }
 
-    /* Content Article Style Start*/
+    /* Main Article Style Start*/
     .content article {
         margin-bottom: 20px;
         padding: 50px;
@@ -102,8 +102,8 @@ p {
         margin-bottom: 20px;
         font-size: 36px;
     } 
-    /*Content Article Style Start*/
-/*Content Style End*/
+    /*Main Article Style Start*/
+/*Main Style End*/
 
 /* Benefits Style Start*/
 .benefits {
