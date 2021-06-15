@@ -10,7 +10,9 @@ A website that offers marketing services.
 ## Website
 https://nukagrizz.github.io/Horiseon-Social-Solution-Services/
 
+## Screenshot
+![Screenshot](./screenshots/Horiseon-screenshot.png)
+
 ## Contribution
 Made with ❤️ by NukaGrizz aka.Joe Tremols
 
-![Screenshot](./screenshots/Horiseon-screenshot.png)
